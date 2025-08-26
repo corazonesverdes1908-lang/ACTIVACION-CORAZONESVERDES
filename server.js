@@ -88,7 +88,7 @@ app.get("/app/wm/demo/lic/", (req, res) => {
     data: {
       remainingdays: 30,
       expires_on: "2025-24-09",
-      mobile: req.query.phonenumber || "573017462273"
+      mobile: req.query.phonenumber || "573000000000"
     },
     set: "set",
     SOAP: "KzkxOTA0OTc0MDQzMQ==",
